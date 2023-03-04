@@ -1,0 +1,70 @@
+.ctr {
+    border: 1px;
+    border-radius: 25px;
+    background-color: rgb(48, 47, 47);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 175px;
+}
+.r_n {
+    font-family: Arial;
+    color: white;
+    background-color: rgb(48, 47, 47);
+    border: 1px;
+    border-radius: 50px;
+    margin-left: 590px;
+}
+.r_u {
+    font-family: Arial;
+    color: white;
+    background-color: rgb(48, 47, 47);
+    border: 1px;
+    border-radius: 50px;
+    margin-left: 620px;
+}
+.r_h {
+    font-family: Arial;
+    color: white;
+    background-color: rgb(48, 47, 47);
+    border: 1px;
+    border-radius: 50px;
+    margin-left: 575px;
+}
+.r_a {
+    font-family: Arial;
+    color: white;
+    background-color: rgb(48, 47, 47);
+    border: 1px;
+    border-radius: 50px;
+    margin-left: 575px;
+}
+.r0 {
+    font-family: Arial;
+    color: white;
+    background-color: rgb(48, 47, 47);
+    border: 1px;
+    border-radius: 50px;
+    margin-left: 620px;
+}
+.r1 {
+    font-family: Arial;
+    color: white;
+    background-color: rgb(48, 47, 47);
+    border: 1px;
+    border-radius: 50px;
+    margin-left: 515px;
+}
+.top { 
+    text-align: center;
+}
+.me {
+    color:white;
+    font-family:Arial;
+    font-size: 40px;
+
+}
+.who {
+    color:red;
+    font-family:Arial;
+    font-size:75px
+}
